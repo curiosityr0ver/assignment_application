@@ -29,9 +29,7 @@ Used OpenWeatherMap API for fetching weather details
 ## Video Demonstration
 
 #### Google Drive Link
-```http
-  https://drive.google.com/file/d/1cbLWybxU-Zk_SSndlEjERiuipL1SySSF/view?usp=sharing
-```
+[@Google Drive](https://drive.google.com/file/d/1cbLWybxU-Zk_SSndlEjERiuipL1SySSF/view?usp=sharing)
 
 ## 🚀 About Me
 I'm a full stack developer with expertise in ReactJS and Flutter
