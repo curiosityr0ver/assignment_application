@@ -1,3 +1,6 @@
+    
+![App Screenshot](https://cdn2.iconfinder.com/data/icons/weather-365/64/weather-sun-cloud-rain-512.png)
+
 
 # Basic Weather App
 
@@ -23,3 +26,12 @@ Used OpenWeatherMap API for fetching weather details
 ```http
   http://api.openweathermap.org/data/2.5/weather?q=$city&appid=$apiKey&units=metric
 ```
+
+## 🚀 About Me
+I'm a full stack developer with expertise in ReactJS and Flutter
+
+
+## Authors
+
+- [@curiosityr0ver](https://github.com/curiosityr0ver)
+
