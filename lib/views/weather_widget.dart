@@ -32,7 +32,8 @@ class _WeatherWidgetState extends State<WeatherWidget> {
               weatherData = fetchWeather(_selectedCity);
             });
           },
-          items: <String>['New York', 'London', 'Tokyo', 'Paris'].map<DropdownMenuItem<String>>((String value) {
+          items: <String>['New York', 'London', 'Tokyo', 'Paris', 'Delhi', 'Mumbai', 'Budapest']
+              .map<DropdownMenuItem<String>>((String value) {
             return DropdownMenuItem<String>(
               value: value,
               child: Text(value),
