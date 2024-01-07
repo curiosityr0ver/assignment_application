@@ -62,11 +62,9 @@ class _WeatherWidgetState extends State<WeatherWidget> {
                       return const CircularProgressIndicator();
                     },
                   ),
-                  // Display weather information using snapshot.data
                   Text(snapshot.data!.cityName),
                   Text('${snapshot.data!.temperature}°C'),
                   Text(snapshot.data!.description),
-                  // ... Add more weather information here
                 ],
               );
             } else if (snapshot.hasError) {
