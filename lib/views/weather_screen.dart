@@ -1,4 +1,4 @@
-import 'package:assignment_application/weather_widget.dart';
+import 'package:assignment_application/views/weather_widget.dart';
 import 'package:flutter/material.dart';
 
 class WeatherScreen extends StatefulWidget {

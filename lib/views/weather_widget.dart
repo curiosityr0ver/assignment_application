@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'models/weather_model.dart';
-import 'package:assignment_application/API_CALLS/open_weather.dart';
+import '../models/weather_model.dart';
+import 'package:assignment_application/services/open_weather.dart';
 
 class WeatherWidget extends StatefulWidget {
   const WeatherWidget({super.key});

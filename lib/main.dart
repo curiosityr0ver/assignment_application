@@ -1,4 +1,4 @@
-import 'package:assignment_application/weather_screen.dart';
+import 'package:assignment_application/views/weather_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

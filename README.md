@@ -1,16 +1,25 @@
-# assignment_application
 
-A new Flutter project.
+# Basic Weather App
 
-## Getting Started
+This is my submission for Eighty7 Financial Planners Internship
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Running The App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To deploy this project run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  git clone https://github.com/curiosityr0ver/assignment_application.git
+  cd assignment_application
+  flutter run lib/main.dart
+```
+Choose a browser of your choice and press its corresponding index
+
+## API Reference
+
+#### Get all items
+
+Used OpenWeatherMap API for fetching weather details
+```http
+  http://api.openweathermap.org/data/2.5/weather?q=$city&appid=$apiKey&units=metric
+```
